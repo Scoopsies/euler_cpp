@@ -1,4 +1,4 @@
-#include "../include/problem_1.h"
+#include "problem_1.h"
 #include <vector>
 
 bool is_divisible_by(const int num1, const int num2) {

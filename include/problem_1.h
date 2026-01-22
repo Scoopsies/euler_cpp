@@ -1,6 +1,6 @@
 #ifndef PROBLEM_1_H
 #define PROBLEM_1_H
-#include  <vector>
+#include <vector>
 
 std::vector<int> find_multiples_of(int num1, int num2, int limit);
 
